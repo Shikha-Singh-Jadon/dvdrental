@@ -6,7 +6,8 @@ This repository contains an analysis of the DVD rental database using PostgreSQL
 
 The DVD rental database consists of several tables that represent entities such as customers, films, actors, rentals, and more. 
 
-![image](https://github.com/Shikha-Singh-Jadon/dvdrental/assets/132803116/acca60ac-f48f-4281-bbad-7d2d0956c4b8)
+![image](https://github.com/Shikha-Singh-Jadon/dvdrental/assets/132803116/b135e836-cf57-49e0-92d1-ea0bad432d9b)
+
 
 In this repository, you will find a collection of SQL queries written to perform various analyses on the DVD rental database. These queries cover a range of topics and can be used to extract valuable insights from the data.
 
